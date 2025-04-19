@@ -17,7 +17,7 @@ The SQP algorithm is particularly effective for constrained optimization problem
 ---
 
 ## 📂 Project Structure
-"""
+```
 /optimization_project_201
 │── main_program.py        # Entry point for the application
 │── optimization.py        # Core optimization algorithms implementation
@@ -27,4 +27,4 @@ The SQP algorithm is particularly effective for constrained optimization problem
 │── computation.py         # Numerical computation utilities
 │── Compte_rendu_TP_OPT1.pdf  # Detailed project report (in French)
 │── TRAORE_ZHANG.ipynb     # Jupyter notebook with examples and experiments
-"""
+```
