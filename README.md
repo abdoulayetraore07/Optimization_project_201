@@ -1,4 +1,4 @@
-# 🚀 Non-linear Optimization Project Using SQP
+# 🚀 Non-linear Optimization Project Using SQP method
 
 ## 📌 Description
 This project implements a **Sequential Quadratic Programming (SQP)** algorithm to solve non-linear optimization problems. The implementation is done in Python with a focus on mathematical rigor and computational efficiency.
