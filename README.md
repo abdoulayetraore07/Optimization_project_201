@@ -8,11 +8,11 @@ The SQP algorithm is particularly effective for constrained optimization problem
 ---
 
 ## Features
-✅ **Complete SQP Implementation** - Handles both equality and inequality constraints  
-✅ **Visualization Tools** - Interactive plots to visualize the optimization process  
-✅ **Performance Metrics** - Tracking of convergence speed and solution accuracy  
-✅ **Extensible Architecture** - Easy to adapt for different problem types  
-✅ **Comprehensive Documentation** - Both in-code and through detailed reports  
+**Complete SQP Implementation** - Handles both equality and inequality constraints  
+**Visualization Tools** - Interactive plots to visualize the optimization process  
+**Performance Metrics** - Tracking of convergence speed and solution accuracy  
+**Extensible Architecture** - Easy to adapt for different problem types  
+**Comprehensive Documentation** - Both in-code and through detailed reports  
 
 ---
 
